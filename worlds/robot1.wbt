@@ -2,8 +2,8 @@
 WorldInfo {
 }
 Viewpoint {
-  orientation -0.6931032800836722 0.6931032800836722 0.1980295085953349 0.75
-  position 1.2 1.6 2.3
+  orientation -0.6958762822611545 0.6958762822611548 0.17751732189504135 0.666657657597861
+  position 0.43767191164826325 0.6834506465053503 1.140400061721669
 }
 TexturedBackground {
 }
@@ -12,4 +12,24 @@ TexturedBackgroundLight {
 Floor {
 }
 Robot {
+  translation 0 0.17 0
+  children [
+    Solid {
+      children [
+        Shape {
+          appearance PBRAppearance {
+            baseColor 0.8 0 0
+          }
+          geometry Box {
+            size 0.25 0.07 0.1
+          }
+        }
+      ]
+    }
+  ]
+  boundingObject Box {
+    size 0.25 0.07 0.1
+  }
+  physics Physics {
+  }
 }
