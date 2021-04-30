@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T16:19:15.275Z" agent="5.0 (Windows)" etag="L5mmU3-9PV2nqYYFAO6d" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-30T00:59:39.779Z" agent="5.0 (Windows)" etag="yp4fbEKb2V-AKLtMrLzo" version="14.5.8" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
-    <mxGraphModel dx="2503" dy="1005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2146" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="3a17f1ce550125da-15" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" parent="1" source="3a17f1ce550125da-2" target="3a17f1ce550125da-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3a17f1ce550125da-2" value="Microcontroller" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="3a17f1ce550125da-2" value="Arduino" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1047" y="440" width="170" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="3a17f1ce550125da-4" value="MLX90614 Infrared thermometer" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="3a17f1ce550125da-4" value="Infrared thermometer" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1297" y="430" width="143" height="76" as="geometry" />
         </mxCell>
         <mxCell id="3a17f1ce550125da-6" value="DC Motors" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
@@ -19,7 +19,7 @@
         <mxCell id="vDRpFDDpfhGOyYYU88ng-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.521;exitY=0.015;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3a17f1ce550125da-10" target="3a17f1ce550125da-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3a17f1ce550125da-10" value="Power supply" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="3a17f1ce550125da-10" value="Lipo batery" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1057" y="796" width="145" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vDRpFDDpfhGOyYYU88ng-10" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -52,7 +52,7 @@
         <mxCell id="vDRpFDDpfhGOyYYU88ng-15" value="Encoders" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1297" y="666" width="143" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="vDRpFDDpfhGOyYYU88ng-17" value="Micro-Computer" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="vDRpFDDpfhGOyYYU88ng-17" value="Rasberry 3B" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="760" y="546" width="177" height="210" as="geometry" />
         </mxCell>
         <mxCell id="vDRpFDDpfhGOyYYU88ng-21" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" parent="1" edge="1">
@@ -82,7 +82,7 @@
             <mxPoint x="1367.67" y="666" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vDRpFDDpfhGOyYYU88ng-39" value="Infrared led" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="vDRpFDDpfhGOyYYU88ng-39" value="Laser" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="820" y="430" width="143" height="76" as="geometry" />
         </mxCell>
         <mxCell id="vDRpFDDpfhGOyYYU88ng-41" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -121,19 +121,19 @@
             <mxPoint x="860" y="759" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z9_mxD4wpVyYzWablZFV-1" value="Computer" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="z9_mxD4wpVyYzWablZFV-1" value="Computer" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="450" y="646" width="145" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="z9_mxD4wpVyYzWablZFV-2" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=-0.024;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="vDRpFDDpfhGOyYYU88ng-17">
+        <mxCell id="z9_mxD4wpVyYzWablZFV-2" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=-0.024;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="vDRpFDDpfhGOyYYU88ng-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="706" as="sourcePoint" />
             <mxPoint x="720" y="586" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z9_mxD4wpVyYzWablZFV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z9_mxD4wpVyYzWablZFV-4" target="z9_mxD4wpVyYzWablZFV-1">
+        <mxCell id="z9_mxD4wpVyYzWablZFV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="z9_mxD4wpVyYzWablZFV-4" target="z9_mxD4wpVyYzWablZFV-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z9_mxD4wpVyYzWablZFV-4" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;User&lt;/font&gt;&lt;/div&gt;" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="z9_mxD4wpVyYzWablZFV-4" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;User&lt;/font&gt;&lt;/div&gt;" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="250" y="450" width="140" height="170" as="geometry" />
         </mxCell>
       </root>
